@@ -17,7 +17,7 @@ function generate() {
   header.className = "planner-header";
 
   const title = document.createElement("h1");
-  title.textContent = "Time‑Block Planner";
+  title.textContent = "Time-Block Planner";
 
   const dateBox = document.createElement("div");
   dateBox.className = "date-box";
